@@ -36,9 +36,9 @@ C<sub>2</sub> =  p<sub>2</sub> &and; m<sub>3</sub> &and; m<sub>5</sub> &and; m<s
 
 C<sub>3</sub> = p<sub>3</sub> &and; m<sub>5</sub> &and; m<sub>6</sub> &and; m<sub>7</sub> &and; m<sub>12</sub>
 
-C<sub>3</sub> = p<sub>4</sub> &and; m<sub>9</sub>  &and; m<sub>10</sub>  &and; m<sub>11</sub>  &and; m<sub>12</sub>
+C<sub>4</sub> = p<sub>4</sub> &and; m<sub>9</sub>  &and; m<sub>10</sub>  &and; m<sub>11</sub>  &and; m<sub>12</sub>
 
-After location bits are concatenated to obtain the single number as C = {C<sub>4</sub>, C<sub>3</sub>, C<sub>2</sub>, C<sub>1</sub> }.
+After that location bits are concatenated to obtain the single number as C = {C<sub>4</sub>, C<sub>3</sub>, C<sub>2</sub>, C<sub>1</sub> }.
 
 ## Correction
 Upto now, we have located the position of corrupted bit. To correct that particular bit, simply corresponding bit is complemented.

@@ -51,7 +51,8 @@ The design have been simulated using **Vivado 2016.2**. From following waveforms
 
 *Encoding*
 
-<img src="./Images/encoding simulation graph.PNG">
+<img src="./Images/decoding simulation graph.PNG">
+
 *Decoding and Correction*
 
 

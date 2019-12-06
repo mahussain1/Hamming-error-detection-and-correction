@@ -47,11 +47,11 @@ Upto now, we have located the position of corrupted bit. To correct that particu
 The design have been simulated using **Vivado 2016.2**. From following waveforms, it is can be observed that design works very well to perform single bit error detection and correction.
 
 
-<img src"./Images/encoding simulation graph.PNG">
+<img src="./Images/encoding simulation graph.PNG">
 
 *Encoding*
 
-<img src"./Images/encoding simulation graph.PNG">
+<img src="./Images/encoding simulation graph.PNG">
 *Decoding and Correction*
 
 

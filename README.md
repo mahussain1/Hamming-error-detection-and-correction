@@ -19,3 +19,5 @@ p<sub>1</sub> = $m<sub>3</sub> \wedge m<sub>5</sub>$ \wedge m<sub>6</sub> \wedge
 p<sub>2</sub> =  $ m<sub>3</sub> \wedge m<sub>5</sub> \wedge m<sub>7</sub> \wedge  m<sub>9</sub>  \wedge m<sub>11</sub> $
 p<sub>3</sub> = $ m<sub>5</sub> \wedge m<sub>6</sub> \wedge m<sub>7</sub> \wedge m<sub>12</sub> $
 p<sub>3</sub> = $ m<sub>9</sub>  \wedge m<sub>10</sub>  \wedge m<sub>11</sub>  \wedge m<sub>12</sub> $
+
+P $\wedge$ Q

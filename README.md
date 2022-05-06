@@ -17,9 +17,9 @@ At transmitting side, this module generates parity bits for encoding incoming da
 
 In this way, 
 
-p<sub>1</sub> = m<sub>3</sub> &and; m<sub>5</sub> &and; m<sub>6</sub> &and; m<sub>7</sub> &and;  m<sub>9</sub>  &and; m<sub>10</sub>  &and; m<sub>11</sub>  &and; m<sub>12</sub>
+p<sub>1</sub> = m<sub>3</sub> &and; m<sub>5</sub> &and; m<sub>7</sub> &and;  m<sub>9</sub>  &and; m<sub>10</sub>  &and; m<sub>11</sub>
 
-p<sub>2</sub> =  m<sub>3</sub> &and; m<sub>5</sub> &and; m<sub>7</sub> &and;  m<sub>9</sub>  &and; m<sub>11</sub>
+p<sub>2</sub> =  m<sub>3</sub> &and; m<sub>6</sub> &and; m<sub>7</sub> &and;  m<sub>10</sub>  &and; m<sub>11</sub>
 
 p<sub>3</sub> = m<sub>5</sub> &and; m<sub>6</sub> &and; m<sub>7</sub> &and; m<sub>12</sub>
 

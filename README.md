@@ -30,9 +30,9 @@ This module is used to detect the position of bit in codeword which might be cor
 
 For finding Location **(C)** where,
 
-C<sub>1</sub> = p<sub>1</sub> &and; m<sub>3</sub> &and; m<sub>5</sub> &and; m<sub>6</sub> &and; m<sub>7</sub> &and;  m<sub>9</sub>  &and; m<sub>10</sub>  &and; m<sub>11</sub>  &and; m<sub>12</sub>
+C<sub>1</sub> = p<sub>1</sub> &and; m<sub>3</sub> &and; m<sub>5</sub> &and; m<sub>7</sub> &and; m<sub>9</sub> &and; m<sub>11</sub>
 
-C<sub>2</sub> =  p<sub>2</sub> &and; m<sub>3</sub> &and; m<sub>5</sub> &and; m<sub>7</sub> &and;  m<sub>9</sub>  &and; m<sub>11</sub>
+C<sub>2</sub> =  p<sub>2</sub> &and; m<sub>3</sub> &and; m<sub>6</sub> &and;  m<sub>7</sub>  &and; m<sub>10</sub> &and;  m<sub>11</sub>
 
 C<sub>3</sub> = p<sub>3</sub> &and; m<sub>5</sub> &and; m<sub>6</sub> &and; m<sub>7</sub> &and; m<sub>12</sub>
 
